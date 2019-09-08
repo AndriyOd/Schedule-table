@@ -1,0 +1,6 @@
+E:\Csharp\Education\At_01\WebApplication8\WebApplication8\bin\WebApplication8.dll.config
+E:\Csharp\Education\At_01\WebApplication8\WebApplication8\bin\WebApplication8.dll
+E:\Csharp\Education\At_01\WebApplication8\WebApplication8\bin\WebApplication8.pdb
+E:\Csharp\Education\At_01\WebApplication8\WebApplication8\obj\Release\WebApplication8.csprojResolveAssemblyReference.cache
+E:\Csharp\Education\At_01\WebApplication8\WebApplication8\obj\Release\WebApplication8.dll
+E:\Csharp\Education\At_01\WebApplication8\WebApplication8\obj\Release\WebApplication8.pdb

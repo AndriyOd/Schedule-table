@@ -1,0 +1,83 @@
+﻿.table_background {
+    background-color:lightgreen;
+    margin-top:8px;
+}
+
+.table_header_row {
+    background-color:lightgreen; 
+}
+
+.table_odd_row {
+    background-color:#cccbcb;
+    text-align:center;
+}
+
+.table_even_row {
+    background-color:#f2f2f2;
+    text-align:center;
+}
+
+.btn_cell{
+    text-align: center;
+    width: 100%;
+}
+
+.lesson_cell{
+    color:#276cfa;
+}
+
+#image_header {
+    background-image:url(at_04.jpg);
+    padding-top:0px;
+    padding-bottom:75px;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+#main_title {
+    font-size:25pt;
+    font-weight:bold;
+    margin:0px;
+    padding:0px;
+    font-family: 'Comic Sans MS', Calibri;
+}
+
+#sub_title {
+    text-align:center;
+    font-size: 15pt;
+    font-weight:bold;
+    font-style:italic;
+    margin:0px;
+    padding:0px;
+    font-family: 'Comic Sans MS', Calibri;
+}
+
+#link {
+    text-align:right;
+    margin:0px;
+    padding:0px;
+}
+
+.div_general {
+    margin-bottom:40px;
+}
+
+#div_psw {
+    margin-bottom:8px;
+    display:none;    
+}
+ 
+#div_add {
+    margin-bottom:8px;
+    display:none;    
+}
+
+#div_list {
+    margin-bottom:8px;
+    background-color:rgba(155, 255, 187, 0.40);
+    display:none;  
+}
+
+.prompt {
+    font-size:9pt;
+}
